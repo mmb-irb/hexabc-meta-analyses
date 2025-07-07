@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmb-irb/hexabc-meta-analyses/HEAD)
+[![](https://img.shields.io/badge/Google%20Colab-Open-orange?logo=google-colab)](https://colab.research.google.com/github/mmb-irb/hexabc-meta-analyses/)
+
 ### hexABC Meta-Analyses
 
 ***
