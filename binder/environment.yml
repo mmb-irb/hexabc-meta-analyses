@@ -1,0 +1,11 @@
+name: hexABC_DB
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - mdanalysis
+  - mdtraj
+  - jupyter
+  - plotly
+  - nglview
+  - simpletraj
