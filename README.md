@@ -2,7 +2,7 @@
 
 ***
 
-This repository contains a collection of Jupyter Notebooks demonstrating how to perform meta-analyses using the [hexABC](https://mmb.irbbarcelona.org/webdev3/hexABC) database—a FAIR-compliant resource of atomistic molecular dynamics simulations of naked DNA.
+This repository contains a collection of Jupyter Notebooks demonstrating how to perform meta-analyses using the [hexABC](https://mmb.irbbarcelona.org/webdev3/hexABC) database: a FAIR-compliant resource of atomistic molecular dynamics simulations of naked DNA.
 
 These notebooks showcase how to programmatically access and analyze large-scale DNA simulation data using the hexABC REST API, enabling advanced structural and statistical investigations across thousands of DNA sequences.
 
