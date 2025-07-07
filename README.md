@@ -35,3 +35,13 @@ jupyter-notebook 01_bimodality_analysis.ipynb
 ```
 
 ***
+
+## Copyright & Licensing
+This software has been developed in the [MMB group](http://mmb.irbbarcelona.org) at the [IRB](https://www.irbbarcelona.org/).
+
+* (c) 2025 [Institute for Research in Biomedicine](https://www.irbbarcelona.org/)
+
+Licensed under the
+[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), see the file LICENSE for details.
+
+
